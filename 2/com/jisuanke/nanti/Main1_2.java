@@ -2,7 +2,6 @@ package com.jisuanke.nanti;
 
 import java.util.Scanner;//导入java.util包中的Scanner类
 /**
- * 题目考验：整除判断
  * 此class由scepter于20182018年5月23日上午12:50:10创建
  * 通常class中的第一行代码：package *
  * 并不存在于“计蒜客”原答案中，是IDE创建class时不得不生成的

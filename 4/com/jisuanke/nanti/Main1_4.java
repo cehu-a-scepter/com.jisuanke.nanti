@@ -3,7 +3,6 @@ package com.jisuanke.nanti;
 import java.math.BigInteger;
 import java.util.Scanner;
 /**
- * 题目考验：斐波那契计算
  * 此class由scepter于20182018年5月25日上午9:12:13创建
  * 通常class中的第一行代码：package *
  * 并不存在于“计蒜客”原答案中，是IDE创建class时不得不生成的

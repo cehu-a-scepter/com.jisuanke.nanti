@@ -2,7 +2,6 @@ package com.jisuanke.nanti;
 
 import java.util.Scanner;
 /**
- * 题目考验：矩阵翻转
  * 此class由scepter创建于20182018年5月27日下午1:54:39
  * 通常class中的第一行代码：package *
  * 并不存在于“计蒜客”原答案中，是IDE创建class时不得不生成的
