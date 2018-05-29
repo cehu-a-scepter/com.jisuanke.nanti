@@ -35,7 +35,7 @@ public class Main1_6 {
 					thief=name[a];//贼娃子名字
 				}
 			}
-			System.out.println(thief+" took clay from "+victim+".");//输出
+			System.out.println(thief+" took clay from "+victim+".");//输出结果
 			n=input.nextInt();//下个班级人数
 		}
 		input.close();
