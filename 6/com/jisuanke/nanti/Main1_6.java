@@ -24,7 +24,7 @@ public class Main1_6 {
 				y=input.nextInt();//宽
 				z=input.nextInt();//高
 				volume[i]=x*y*z;//储存每个学生粘土体积
-				name[i]=input.nextLine();//储存每个学生姓名
+				name[i]=input.next();//储存每个学生姓名
 				sum+=x*y*z;//此班粘土总量
 			}
 			average=sum/n;//计算粘土平均量
@@ -35,7 +35,7 @@ public class Main1_6 {
 					thief=name[a];//贼娃子名字
 				}
 			}
-			System.out.println(thief+" took clay from"+victim+".");//输出
+			System.out.println(thief+" took clay from "+victim+".");//输出
 			n=input.nextInt();//下个班级人数
 		}
 		input.close();
