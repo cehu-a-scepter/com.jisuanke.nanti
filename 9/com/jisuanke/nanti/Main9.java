@@ -13,6 +13,7 @@ public class Main9 {
 		int[] arr=new int[n-1];
 		for(int a=0;a<n;a++) {
 			arr[a]=input.nextInt();
+			//未完待续
 		}
 	}
 }
